@@ -108,7 +108,7 @@ The dataset includes real mobile shop entries such as:
 
 **Ramgopal Prajapati**
 
-* LinkedIn: [https://linkedin.com/in/RamgopalPrajapati](https://linkedin.com/in/RamgopalPrajapati)
+* LinkedIn: [https://linkedin.com/in/RamgopalPrajapati](https://www.linkedin.com/in/ramgopal-prajapati-b30237264/))
 * GitHub: [https://github.com/Ramgopal-prajapati](https://github.com/Ramgopal-prajapati)
 * Email: [ramsirdevix@gmail.com](mailto:ramsirdevix@gmail.com)
 
